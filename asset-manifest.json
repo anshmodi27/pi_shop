@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pi_shop/static/css/main.ba8b2de4.css",
+    "main.js": "/pi_shop/static/js/main.b6134ab3.js",
+    "static/js/787.27e484ee.chunk.js": "/pi_shop/static/js/787.27e484ee.chunk.js",
+    "index.html": "/pi_shop/index.html",
+    "main.ba8b2de4.css.map": "/pi_shop/static/css/main.ba8b2de4.css.map",
+    "main.b6134ab3.js.map": "/pi_shop/static/js/main.b6134ab3.js.map",
+    "787.27e484ee.chunk.js.map": "/pi_shop/static/js/787.27e484ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba8b2de4.css",
+    "static/js/main.b6134ab3.js"
+  ]
+}
